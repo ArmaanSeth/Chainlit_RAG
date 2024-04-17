@@ -1,0 +1,10 @@
+langchain
+PyPDF2
+python-dotenv
+chainlit
+langchain_google_genai 
+pillow 
+pydash 
+pydantic 
+pinecone-client 
+sentence-transformers
